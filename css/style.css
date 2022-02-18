@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+@import url("../css/about.css");
+section {
+  padding: 100px 0 89px 0;
+  width: 100%;
+}
+.container {
+  max-width: 1170px;
+  margin: auto;
+  padding: 0 15px;
+}
+
+.card-title {
+  margin-bottom: 25px;
+  margin: auto;
+  font-size: 38px;
+}
+.line {
+  width: 64px;
+  border-bottom: 2px solid #d98943;
+  margin-bottom: 30px;
+}
+.desription {
+  margin-bottom: 36px;
+  color: #86878b;
+  font-size: 19px;
+}
+.block {
+}
