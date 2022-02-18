@@ -17,8 +17,9 @@ section {
 }
 
 .card-title {
+  /* font-weight: 409px;
+  margin: auto; */
   margin-bottom: 25px;
-  margin: auto;
   font-size: 38px;
 }
 .line {
@@ -27,9 +28,31 @@ section {
   margin-bottom: 30px;
 }
 .desription {
-  margin-bottom: 36px;
   color: #86878b;
   font-size: 19px;
+  margin-bottom: 36px;
 }
 .block {
+}
+.block-item {
+  width: 350px;
+}
+.block-item-icon {
+  max-width: 70px;
+  max-height: 70px;
+  border: 1px solid #d98943;
+  border-radius: 90px;
+  margin-bottom: 30px;
+}
+.icon {
+  margin: auto;
+  padding: 20px;
+}
+.block-item-title {
+  font-size: 29px;
+  margin-bottom: 16px;
+}
+.block-item-text {
+  width: 350px;
+  color: #000000;
 }
