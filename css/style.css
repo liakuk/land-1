@@ -24,18 +24,14 @@ section {
 .line {
   width: 64px;
   border-bottom: 2px solid #d98943;
-  margin-bottom: 30px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto 30px auto;
 }
 .desription {
-  margin-bottom: 67px;
   color: #86878b;
   font-size: 14px;
-  margin-left: auto;
-  margin-right: auto;
   display: flex;
   justify-content: center;
+  margin: 0 auto 67px auto;
 }
 .block {
 }
@@ -43,18 +39,17 @@ section {
   margin-top: 32px;
   width: 350px;
   display: inline-block;
+  /* margin: auto; */
 }
 .block-item-icon {
   width: 70px;
   height: 70px;
   border: 1px solid #d98943;
   border-radius: 90px;
-  margin-bottom: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto 30px auto;
 }
 
 .block-item-title {
@@ -63,7 +58,7 @@ section {
   text-align: center;
 }
 .block-item-text {
-  width: 350px;
+  width: 330px;
   color: #000000;
   text-align: center;
 }
