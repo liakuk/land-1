@@ -29,17 +29,18 @@ section {
 .desription {
   color: #86878b;
   font-size: 14px;
-  display: flex;
-  justify-content: center;
+  text-align: center;
+  /* display: flex;
+  justify-content: center;*/
   margin: 0 auto 67px auto;
 }
-.block {
+.blok {
+  text-align: center;
 }
 .block-item {
   margin-top: 32px;
   width: 350px;
   display: inline-block;
-  /* margin: auto; */
 }
 .block-item-icon {
   width: 70px;
@@ -47,6 +48,8 @@ section {
   border: 1px solid #d98943;
   border-radius: 90px;
   display: flex;
+  text-align: center;
+
   align-items: center;
   justify-content: center;
   margin: 0 auto 30px auto;
